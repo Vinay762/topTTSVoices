@@ -9,7 +9,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/de-DE-KatjaNeural.mp3",
     "greeting_message": "Hallo, ich bin Katja. Wie kann ich Ihnen heute helfen?"
   },
   {
@@ -22,7 +22,7 @@
     "gender": "male",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/de-DE-ConradNeural.mp3",
     "greeting_message": "Hallo, ich bin Conrad. Wie kann ich Ihnen heute helfen?"
   },
   {
@@ -35,7 +35,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/en-AU-NatashaNeural.mp3",
     "greeting_message": "Hi, I am Natasha. How can I help you today?"
   },
   {
@@ -48,7 +48,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/en-CA-ClaraNeural.mp3",
     "greeting_message": "Hi, I am Clara. How can I help you today?"
   },
   {
@@ -61,7 +61,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/en-GB-SoniaNeural.mp3",
     "greeting_message": "Hi, I am Sonia. How can I help you today?"
   },
   {
@@ -74,7 +74,7 @@
     "gender": "male",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/en-GB-RyanNeural.mp3",
     "greeting_message": "Hi, I am Ryan. How can I help you today?"
   },
   {
@@ -87,7 +87,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/en-IN-NeerjaNeural.mp3",
     "greeting_message": "Hi, I am Neerja. How can I help you today?"
   },
   {
@@ -100,7 +100,7 @@
     "gender": "male",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/en-IN-PrabhatNeural.mp3",
     "greeting_message": "Hi, I am Prabhat. How can I help you today?"
   },
   {
@@ -113,7 +113,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/en-US-JennyNeural.mp3",
     "greeting_message": "Hi, I am Jenny. How can I help you today?"
   },
   {
@@ -126,7 +126,7 @@
     "gender": "male",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/en-US-GuyNeural.mp3",
     "greeting_message": "Hi, I am Guy. How can I help you today?"
   },
   {
@@ -139,7 +139,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/en-US-AriaNeural.mp3",
     "greeting_message": "Hi, I am Aria. How can I help you today?"
   },
   {
@@ -152,7 +152,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/es-ES-ElviraNeural.mp3",
     "greeting_message": "Hola, soy Elvira. ¿En qué puedo ayudarte hoy?"
   },
   {
@@ -165,7 +165,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/es-MX-DaliaNeural.mp3",
     "greeting_message": "Hola, soy Dalia. ¿En qué puedo ayudarte hoy?"
   },
   {
@@ -178,7 +178,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/fr-FR-DeniseNeural.mp3",
     "greeting_message": "Bonjour, je m'appelle Denise. Comment puis-je vous aider aujourd'hui ?"
   },
   {
@@ -191,7 +191,7 @@
     "gender": "male",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/fr-FR-HenriNeural.mp3",
     "greeting_message": "Bonjour, je m'appelle Henri. Comment puis-je vous aider aujourd'hui ?"
   },
   {
@@ -204,7 +204,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/hi-IN-AartiNeural.mp3",
     "greeting_message": "नमस्ते, मेरा नाम Aarti है। मैं आज आपकी कैसे मदद कर सकती हूँ?"
   },
   {
@@ -217,7 +217,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/hi-IN-SwaraNeural.mp3",
     "greeting_message": "नमस्ते, मेरा नाम Swara है। मैं आज आपकी कैसे मदद कर सकती हूँ?"
   },
   {
@@ -230,7 +230,7 @@
     "gender": "male",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/hi-IN-MadhurNeural.mp3",
     "greeting_message": "नमस्ते, मेरा नाम Madhur है। मैं आज आपकी कैसे मदद कर सकता हूँ?"
   },
   {
@@ -243,7 +243,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/it-IT-ElsaNeural.mp3",
     "greeting_message": "Ciao, sono Elsa. Come posso aiutarti oggi?"
   },
   {
@@ -256,7 +256,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/ja-JP-NanamiNeural.mp3",
     "greeting_message": "こんにちは、Nanami です。本日どのようにお手伝いできますか？"
   },
   {
@@ -269,7 +269,7 @@
     "gender": "male",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/pt-BR-AntonioNeural.mp3",
     "greeting_message": "Olá, eu sou Antonio. Como posso ajudá-lo hoje?"
   },
   {
@@ -282,7 +282,7 @@
     "gender": "female",
     "age": "Adult",
     "avatar_url": null,
-    "preview_audio_url": null,
+    "preview_audio_url": "https://voicebots-call-resources.s3.ap-south-1.amazonaws.com/azure/zh-CN-XiaoyiNeural.mp3",
     "greeting_message": "你好，我是Xiaoyi，今天我可以帮您做什么？"
   }
 ]
